@@ -1,0 +1,7 @@
+terraform init
+terraform apply
+
+
+Clean up resources
+------------------
+terraform destroy

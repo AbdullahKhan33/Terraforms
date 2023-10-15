@@ -1,0 +1,9 @@
+{
+    "default_location": "East US",
+    "tags": {
+      "dev-rg": "development",
+      "prod-rg": "production",
+      "test-rg": "testing"
+    }
+  }
+  
